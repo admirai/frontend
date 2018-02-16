@@ -6,7 +6,7 @@ how does our program find them when it needs them?
 ### program undergoes three steps before it is executed.
 1. Tokenizing/Lexing: Breaking up a string of characters.
 2. Parsing: Taking a stream of tokens  and turning it into a tree of nested elements, which collectively represent 
-the grammatical structure of the program. = AST
+the grammatical structure of the program. = **AST**
 3. Code-Generation: the process of taking an AST and turning it into executable code.
 
 _Any snippet of Javascript has to be compiled before it's executed._
@@ -35,3 +35,5 @@ In our case, it is said that Engine would be performing an "LHS" look-up for the
 The other type of look-up is called "RHS"
  "L" and "R" meaning: "Left-hand Side" and "Right-hand Side".Side of an assignment operation.
 
+reference = right hand
+declare = left hand = literal value 
