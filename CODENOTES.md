@@ -37,3 +37,11 @@ The other type of look-up is called "RHS"
 
 reference = right hand
 declare = left hand = literal value 
+
+
+# You Don't Know JS: Types & Grammar
+## Chapter 1 : Types
+
+
+
+
