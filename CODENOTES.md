@@ -40,7 +40,7 @@ declare = left hand = literal value
 
 
 # You Don't Know JS: Types & Grammar
-## Chapter 1 : Types
+### Chapter 1 : Types
 
 
 
